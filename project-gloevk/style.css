@@ -43,7 +43,7 @@ h2 {
   margin: 0 auto 26px;
   text-align: center;
   font-size: 16px;
-  line-height: 24px; 
+  line-height: 14px; 
 }
 
 .site-header img {
@@ -81,12 +81,10 @@ h2 {
   padding-top: 65px;
   background-image: url("img/accessories.svg");
 }
-
 .feature-cup {
   padding-top: 65px;
   background-image: url("img/cup.svg");
 }
-
 
 .advantages {
   width: 510px;
