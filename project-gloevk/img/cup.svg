@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="121.385" y1="279.023" x2="121.385" y2="322.678" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+  </defs>
+  <polyline style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="135.706 227.382 133.293 357.056 249.698 356.454 253.92 224.97"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 135.706 230.398 C 135.706 244.041 254.524 240.184 254.524 229.795 C 252.974 216.616 134.041 216.242 135.706 230.398 Z"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 135.706 255.127 C 81.065 243.133 57.429 331.828 133.896 348.613"/>
+  <path style="fill: rgb(216, 216, 216); stroke: url('#gradient-0'); opacity: 0.63;" d="M 133.897 279.253 C 101.776 275.518 97.531 318.379 134.499 322.678 L 133.897 279.253 Z"/>
+</svg>
