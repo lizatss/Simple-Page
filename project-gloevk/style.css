@@ -82,6 +82,12 @@ h2 {
   background-image: url("img/accessories.svg");
 }
 
+.feature-cup {
+  padding-top: 65px;
+  background-image: url("img/cup.svg");
+}
+
+
 .advantages {
   width: 510px;
   margin: 0 auto 40px;
